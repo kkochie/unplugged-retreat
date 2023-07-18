@@ -1,0 +1,8 @@
+.DS_Store
+Thumbs.db
+
+# Boilerplate docs
+/doc/
+
+# Design files
+/design-files/
