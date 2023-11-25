@@ -1,4 +1,4 @@
-# 206-unplugged-retreat
+# Unplugged Retreat Responsive Site
 
 Unplugged Retreat project for Skillcrush Responsive Design curriculum.
 
